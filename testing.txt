@@ -4,5 +4,9 @@ sasaasaassssssssssssssssss
 outlook
 
 asaaass
+<<<<<<< HEAD
 
 git reset --hard
+=======
+changes happen
+>>>>>>> b60afda165419e767d8aa0279c1ced2b58da656a
