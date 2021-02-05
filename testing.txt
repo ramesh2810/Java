@@ -40,3 +40,4 @@ The above command will create a new branch and transfer the stashed work on that
 Output:
 
 commit -a
+git restore file
