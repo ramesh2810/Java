@@ -38,3 +38,5 @@ $ git stash branch <Branch Name>
 The above command will create a new branch and transfer the stashed work on that. Consider the below output:
 
 Output:
+
+commit -a
