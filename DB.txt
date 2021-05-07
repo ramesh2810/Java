@@ -2,10 +2,6 @@ Hi how are u . i am creating new file in github url
 
 second commit in local and changes are going on GitHub URL now at 7/5/2021
 
-
-third commit in local
-
-
 third commit in local
 Four commit in local
 
