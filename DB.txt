@@ -15,3 +15,5 @@ testing for reset
 commit datan
 
 git log HEAD..origin/main
+
+git log HEAD..origin/main 1
