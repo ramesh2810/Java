@@ -12,4 +12,6 @@ git commit for testing 18/5/2021
 
 testing for reset 
 
-commit data
+commit datan
+
+git log HEAD..origin/main
