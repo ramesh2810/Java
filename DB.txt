@@ -10,3 +10,4 @@ Five commit in local and now testing in github url
 
 git commit for testing 18/5/2021
 
+testing for reset 
